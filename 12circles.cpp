@@ -72,3 +72,6 @@ int main()
 
     return 0;
 }
+
+//I used map here because a map allows fast access to the value using the key.and also it shows data in ordered manner, here area is shown in ordered manner
+//map is used to store elements as key,value pairs in sorted order
